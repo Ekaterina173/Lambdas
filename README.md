@@ -1,1 +1,1 @@
-# Using Stream + Lambdas small Application
+# Using Stream + Lambda small Application
